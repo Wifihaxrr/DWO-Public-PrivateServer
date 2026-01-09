@@ -9,7 +9,7 @@
 
 **The battlefield is calling. Re-experience the ultimate Three Kingdoms action.**
 
-[Join Discord](https://discord.gg/XxEK7HKvXY) • [Website](https://dynastywarriors.online/) • [Support Project](https://dynastywarriors.online/)
+
 
 </div>
 
