@@ -8,10 +8,11 @@
 ![Cracked](https://img.shields.io/badge/Cracked-Community_Revival-red?style=for-the-badge)
 </div>
 <div align="center">
-**RELEASING 1/13/2016**
+
+RELEASING 1/13/2016
 </div>
 
-**<div align="center">
+<div align="center">
 **The battlefield is calling. Re-experience the ultimate Three Kingdoms action.**
 
 
