@@ -6,8 +6,12 @@
 ![.NET](https://img.shields.io/badge/.NET-6.0-purple?style=for-the-badge&logo=.net&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Cracked](https://img.shields.io/badge/Cracked-Community_Revival-red?style=for-the-badge)
-
+</div>
+<div align="center">
 **RELEASING 1/13/2016**
+</div>
+
+**<div align="center">
 **The battlefield is calling. Re-experience the ultimate Three Kingdoms action.**
 
 
