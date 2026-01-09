@@ -6,7 +6,7 @@
 ![.NET](https://img.shields.io/badge/.NET-6.0-purple?style=for-the-badge&logo=.net&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Cracked](https://img.shields.io/badge/Cracked-Community_Revival-red?style=for-the-badge)
-![POWERING OFF](https://img.shields.io/badge/POWERING-OFF-Community_Revival-red?style=for-the-badge)
+![POWERING OFF](https://img.shields.io/badge/Cracked-Community_Revival-red?style=for-the-badge)
 </div>
 <div align="center">
 
