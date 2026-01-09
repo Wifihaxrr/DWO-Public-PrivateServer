@@ -141,9 +141,9 @@ We're building this for the community. Your contributions directly fund server c
 **$1,483.00 raised of $7,500 goal**
 
 ### Ways to Support
-- **[Crypto](https://commerce.coinbase.com/checkout/a4bb3a3b-61e5-411a-a2e5-bdd887c0899c)**
-- **[PayPal](https://www.paypal.com/paypalme/arronator)**
-- **Alipay**: `[email protected]`
+- **[Crypto]()**
+- **[PayPal]()**
+- **Alipay**: ``
 
 ### Military Ranks & Rewards
 | Rank | Benefits |
@@ -197,7 +197,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**[Join our Discord](https://discord.gg/XxEK7HKvXY)** • **[Visit our Website](https://dynastywarriors.online/)**
+
 
 *Made with ❤️ by the DWO Community*
 
