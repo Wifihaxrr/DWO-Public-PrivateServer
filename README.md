@@ -5,7 +5,7 @@
 ![DWO Banner](https://img.shields.io/badge/Dynasty_Warriors_Online-Server_Emulator-red?style=for-the-badge&logo=war&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-6.0-purple?style=for-the-badge&logo=.net&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active_Development-yellow?style=for-the-badge)
+![Cracked](https://img.shields.io/badge/Cracked-Community_Revival-red?style=for-the-badge)
 
 **The battlefield is calling. Re-experience the ultimate Three Kingdoms action.**
 
@@ -22,18 +22,18 @@ Dynasty Warriors Online (DWO) Server Emulator is a community-driven project dedi
 ## ✨ Features
 
 ### 🏰 Core Server Functionality
-- **Multi-Port Architecture**: Optimized socket handling for different game services
-- **Secure Communication**: RSA-1024 + AES-256-CBC encryption implementation
+- **Multi-Service Architecture**: Optimized handling for different game services
+- **Secure Communication**: Encrypted client-server communication
 - **Login Server**: Complete authentication and account management
 - **Game Server**: Real-time battle mechanics and character synchronization
-- **Protocol Support**: Full Koei protocol implementation with packet handling
+- **Protocol Implementation**: Full game protocol support
 
 ### 🔧 Technical Implementation
-- **Single-Port Mode**: All client sockets connect through port 15000
-- **Connection Management**: Multi-socket connection tracking and state management
-- **Packet Processing**: Comprehensive opcode handling and packet routing
-- **Cryptography**: Secure key exchange and encrypted communication channels
-- **Real-time Monitoring**: Detailed logging and connection status tracking
+- **Single-Port Mode**: Unified connection management
+- **Connection Management**: Multi-connection tracking and state management
+- **Data Processing**: Comprehensive request handling and routing
+- **Security**: Secure authentication and encrypted communication
+- **Real-time Monitoring**: Connection status and performance tracking
 
 ### 🎮 Game Systems
 - **Character Management**: Create and customize your warrior
@@ -52,7 +52,7 @@ Dynasty Warriors Online (DWO) Server Emulator is a community-driven project dedi
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Wifihaxrr/DWO-Public-PrivateServer.git
+   git clone https://github.com/your-username/DWO-Public-PrivateServer.git
    cd DWO-Public-PrivateServer
    ```
 
@@ -66,11 +66,11 @@ Dynasty Warriors Online (DWO) Server Emulator is a community-driven project dedi
    dotnet run
    ```
 
-The server will start listening on port **15000** for all client connections.
+The server will start listening for client connections.
 
 ### Server Configuration
 
-The server operates in **single-port mode** where all client connections are managed through port 15000 with optimized connection handling for different game services.
+The server operates in **single-port mode** where all client connections are managed through a unified port with optimized connection handling for different game services.
 
 ## 🏗️ Architecture
 
@@ -104,8 +104,8 @@ DWO-Public-PrivateServer/
 - [x] Connection state tracking
 
 ### 🚧 In Development
-- [x] Complete game server implementation
-- [x] Character database integration
+- [ ] Complete game server implementation
+- [ ] Character database integration
 - [ ] Battle system mechanics
 - [ ] Item and equipment systems
 - [ ] Guild and party functionality
@@ -115,6 +115,7 @@ DWO-Public-PrivateServer/
 - [ ] Automatic server scaling
 - [ ] Cross-server communication
 - [ ] Advanced anti-cheat systems
+- [ ] Mobile client support
 
 ## 🤝 Contributing
 
@@ -141,9 +142,9 @@ We're building this for the community. Your contributions directly fund server c
 **$1,483.00 raised of $7,500 goal**
 
 ### Ways to Support
-- **[Crypto]()**
-- **[PayPal]()**
-- **Alipay**: ``
+- **[Crypto](https://commerce.coinbase.com/checkout/a4bb3a3b-61e5-411a-a2e5-bdd887c0899c)**
+- **[PayPal](https://www.paypal.com/paypalme/arronator)**
+- **Alipay**: `[email protected]`
 
 ### Military Ranks & Rewards
 | Rank | Benefits |
@@ -197,7 +198,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-
+**[Join our Discord](https://discord.gg/XxEK7HKvXY)** • **[Visit our Website](https://dynastywarriors.online/)**
 
 *Made with ❤️ by the DWO Community*
 
