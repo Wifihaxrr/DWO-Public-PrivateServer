@@ -12,12 +12,13 @@
 RELEASING 1/13/2016
 
 </div>
-</<div align="center">
+
+<div align="center">
 
 RELEASING 1/13/2016
 
 </div>
-</<div align="center">
+<div align="center">
 
 RELEASING 1/13/2016
 
