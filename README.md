@@ -10,10 +10,12 @@
 <div align="center">
 
 RELEASING 1/13/2016
+RELEASING 1/13/2016
+RELEASING 1/13/2016
 </div>
 
 <div align="center">
-**The battlefield is calling. Re-experience the ultimate Three Kingdoms action.**
+The battlefield is calling. Re-experience the ultimate Three Kingdoms action.
 
 
 
