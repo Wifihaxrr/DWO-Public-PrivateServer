@@ -105,17 +105,16 @@ DWO-Public-PrivateServer/
 
 ### 🚧 In Development
 - [ ] Complete game server implementation
-- [ ] Character database integration
+- [x] Character database integration
 - [ ] Battle system mechanics
 - [ ] Item and equipment systems
 - [ ] Guild and party functionality
 
 ### 📋 Planned Features
 - [ ] Web-based administration panel
-- [ ] Automatic server scaling
+- [x] Automatic server scaling
 - [ ] Cross-server communication
-- [ ] Advanced anti-cheat systems
-- [ ] Mobile client support
+- [x] Advanced anti-cheat systems
 
 ## 🤝 Contributing
 
