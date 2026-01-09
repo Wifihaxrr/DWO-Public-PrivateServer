@@ -52,7 +52,7 @@ Dynasty Warriors Online (DWO) Server Emulator is a community-driven project dedi
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/DWO-Public-PrivateServer.git
+   git clone https://github.com/Wifihaxrr/DWO-Public-PrivateServer.git
    cd DWO-Public-PrivateServer
    ```
 
