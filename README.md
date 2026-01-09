@@ -7,6 +7,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Cracked](https://img.shields.io/badge/Cracked-Community_Revival-red?style=for-the-badge)
 
+**RELEASING 1/13/2016**
 **The battlefield is calling. Re-experience the ultimate Three Kingdoms action.**
 
 
